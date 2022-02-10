@@ -19,7 +19,7 @@ Bem vindo ao perfil de Anderson Quintans!
   
   <a href="https://instagram.com/andersonquintans" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andersonquintans@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"></a>
-  <a href="https://www.https://www.linkedin.com/in/anderson-lucas-quintans-aab3ab207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-lucas-quintans-aab3ab207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  
 </div>
