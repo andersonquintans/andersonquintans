@@ -1,7 +1,7 @@
 Bem vindo ao perfil de Anderson Quintans!
 
 
-- 🌱 Estudante de Html | Css | JavaScript | Reac.JS | Git | GitHub
+- 🌱 Estudante de Html | Css | JavaScript | Reac.JS | Git | GitHub.
 - 🖥️ Futuro Desenvolvedor Front-End Junior
 #
 <div>
