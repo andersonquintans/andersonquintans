@@ -5,7 +5,6 @@
   </a>
 </p>
 
-<!-- GIF MARIO -->
 <h1 align="center">
 
   <img align="right" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
@@ -36,7 +35,7 @@
 <br>
 
 
-<!--  STATS  -->
+
 <h1 align="center"></h1>
 <br>
 <h1 align=center>
@@ -59,5 +58,8 @@
 </h1> 
   
   
-
-
+![Snake animation](https://github.com/andersonquintans/andersonquintans/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
+![](https://komarev.com/ghpvc/?username=andersonquintans)
