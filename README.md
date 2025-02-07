@@ -26,8 +26,8 @@
     <div>
       
   <a href="https://instagram.com/andersonquintans" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5583987133123"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-      <a href = "mailto:andersonquintans@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://wa.me/5583987133123"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href ="mailto:andersonquintans@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-lucas-quintans-aab3ab207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 
@@ -54,11 +54,9 @@
     </a>
   </div>
   <br>
-<img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=andersonquintans&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
 </h1> 
   
   
-![Snake animation](https://github.com/andersonquintans/andersonquintans/blob/output/github-contribution-grid-snake.svg)
   
   
   
